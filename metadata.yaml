@@ -1,0 +1,44 @@
+_repo: Cratylus_1616
+_version: 0.0.1
+contributor:
+  translator:
+    agent_name: Jowett, Benjamin
+    alias: Jowett, William
+    birthdate: 1817
+    deathdate: 1893
+    gutenberg_agent_id: '94'
+    url: http://www.gutenberg.org/2009/agents/94
+    wikipedia: http://en.wikipedia.org/wiki/Benjamin_Jowett
+creator:
+  author:
+    agent_name: Plato
+    alias: Πλάτων
+    birthdate: -428
+    deathdate: -348
+    gutenberg_agent_id: '93'
+    url: http://www.gutenberg.org/2009/agents/93
+    wikipedia: http://en.wikipedia.org/wiki/Plato
+description: There is a well-known saying that the whole of Western Philosophy is
+  footnotes of Plato. This is because his writings have set the schema that philosophy
+  can be said to have followed ever since. Following under the teachings of Socrates,
+  Plato's works are among the world's greatest literature. Cratylus is of opinion
+  that a name is either a true name or not a name at all. He is unable to conceive
+  of degrees of imitation; a word is either the perfect expression of a thing, or
+  a mere inarticulate sound. Of the real Cratylus we know nothing, except that he
+  is recorded by Aristotle to have been the friend or teacher of Plato.
+gutenberg_issued: '1999-01-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '1616'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Classical literature'
+- !lcsh 'Language and languages -- Philosophy'
+- !lcc 'B'
+- !lcc 'PA'
+- GITenberg
+title: Cratylus
+url: http://www.gutenberg.org/ebooks/1616
