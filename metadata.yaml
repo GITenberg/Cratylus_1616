@@ -1,5 +1,5 @@
 _repo: Cratylus_1616
-_version: 0.1.0
+_version: 0.2.0
 contributor:
   translator:
     agent_name: Jowett, Benjamin
@@ -9,6 +9,9 @@ contributor:
     gutenberg_agent_id: '94'
     url: http://www.gutenberg.org/2009/agents/94
     wikipedia: http://en.wikipedia.org/wiki/Benjamin_Jowett
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Plato
@@ -26,6 +29,8 @@ description: There is a well-known saying that the whole of Western Philosophy i
   of degrees of imitation; a word is either the perfect expression of a thing, or
   a mere inarticulate sound. Of the real Cratylus we know nothing, except that he
   is recorded by Aristotle to have been the friend or teacher of Plato.
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/1616#Cratylus
 gutenberg_issued: '1999-01-01'
 gutenberg_type: Text
 identifiers:
